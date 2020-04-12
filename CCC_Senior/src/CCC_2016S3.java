@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class test {
+public class CCC_2016S3 {
 
     static BufferedReader br;
     static PrintWriter out;
